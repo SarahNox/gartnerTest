@@ -1,0 +1,23 @@
+{
+  "name": "gartnertest",
+  "version": "1.0.0",
+  "description": "tech test for gartner",
+  "main": "index.js",
+  "scripts": {
+    "solution": "node index.js",
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SarahNox/gartnerTest.git"
+  },
+  "author": "Sarah Seitz",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SarahNox/gartnerTest/issues"
+  },
+  "homepage": "https://github.com/SarahNox/gartnerTest#readme",
+  "dependencies": {
+    "jest": "^27.4.5"
+  }
+}
